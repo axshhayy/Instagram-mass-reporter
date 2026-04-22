@@ -9,7 +9,7 @@ Installation steps:
 pip3 install pyautogui
 pip3 install webbot
 
-git clone https://github.com/Khanejo/Instagram-reporter
+git clone https://github.com/axshhayy/Instagram-mass-reporter
 ```
 
 Note: Use pip instead of pip3, if you're default python version is 3.x
